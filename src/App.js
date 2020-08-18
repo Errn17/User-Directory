@@ -1,11 +1,10 @@
 import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
+import DirectoryContainer from "./components/DirectoryContainer.js";
+// import logo from "./logo.svg";
+// import "./App.css";
 
 function App() {
-  return (
-    
-  );
+  return <DirectoryContainer />;
 }
 
 export default App;
